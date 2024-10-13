@@ -1,0 +1,285 @@
+Rank,Team Name,Team ID,League,Ranking
+1,FC Midtjylland,8113,Superligaen,100
+2,FC København,8391,Superligaen,90
+3,AGF,8071,Superligaen,81
+4,Silkeborg,8415,Superligaen,72
+5,Nordsjælland,10202,Superligaen,63
+6,Brøndby IF,8595,Superligaen,54
+7,Randers FC,8410,Superligaen,45
+8,Viborg,9939,Superligaen,36
+9,AaB,8470,Superligaen,27
+10,Lyngby,9907,Superligaen,18
+11,Sønderjyske,8487,Superligaen,9
+12,Vejle Boldklub,8231,Superligaen,0
+1,Malmö FF,10237,Allsvenskan,100
+2,Hammarby,8248,Allsvenskan,93
+3,Djurgården,9802,Allsvenskan,86
+4,AIK,8349,Allsvenskan,80
+5,Mjällby,8127,Allsvenskan,73
+6,Elfsborg,8014,Allsvenskan,66
+7,Sirius,6694,Allsvenskan,60
+8,GAIS,8297,Allsvenskan,53
+9,Häcken,8428,Allsvenskan,46
+10,Brommapojkarna,8501,Allsvenskan,40
+11,IFK Göteborg,9893,Allsvenskan,33
+12,IFK Norrköping,8449,Allsvenskan,26
+13,IFK Värnamo,6181,Allsvenskan,20
+14,Halmstads BK,8310,Allsvenskan,13
+15,Kalmar FF,9892,Allsvenskan,6
+16,Västerås SK,6194,Allsvenskan,0
+1,Bodø/Glimt,8402,Eliteserien,100
+2,Brann,8468,Eliteserien,93
+3,Molde,9917,Eliteserien,86
+4,Viking,8478,Eliteserien,80
+5,Rosenborg,8422,Eliteserien,73
+6,Fredrikstad,8417,Eliteserien,66
+7,KFUM,2305,Eliteserien,60
+8,Hamarkameratene,8448,Eliteserien,53
+9,Kristiansund BK,8605,Eliteserien,46
+10,Tromsø,8608,Eliteserien,40
+11,Strømsgodset,8180,Eliteserien,33
+12,Sarpsborg 08,8509,Eliteserien,26
+13,FK Haugesund,8512,Eliteserien,20
+14,Sandefjord,8609,Eliteserien,13
+15,Odds Ballklubb,7988,Eliteserien,6
+16,Lillestrøm,8476,Eliteserien,0
+1,Liverpool,8650,Premier League,100
+2,Manchester City,8456,Premier League,94
+3,Arsenal,9825,Premier League,89
+4,Chelsea,8455,Premier League,84
+5,Aston Villa,10252,Premier League,78
+6,Brighton & Hove Albion,10204,Premier League,73
+7,Newcastle United,10261,Premier League,68
+8,Fulham,9879,Premier League,63
+9,Tottenham Hotspur,8586,Premier League,57
+10,Nottingham Forest,10203,Premier League,52
+11,Brentford,9937,Premier League,47
+12,West Ham United,8654,Premier League,42
+13,AFC Bournemouth,8678,Premier League,36
+14,Manchester United,10260,Premier League,31
+15,Leicester City,8197,Premier League,26
+16,Everton,8668,Premier League,21
+17,Ipswich Town,9902,Premier League,15
+18,Crystal Palace,9826,Premier League,10
+19,Southampton,8466,Premier League,5
+20,Wolverhampton Wanderers,8602,Premier League,0
+1,Bayern München,9823,Bundesliga,100
+2,RB Leipzig,178475,Bundesliga,94
+3,Eintracht Frankfurt,9810,Bundesliga,88
+4,Freiburg,8358,Bundesliga,82
+5,Bayer Leverkusen,8178,Bundesliga,76
+6,Union Berlin,8149,Bundesliga,70
+7,Borussia Dortmund,9789,Bundesliga,64
+8,VfB Stuttgart,10269,Bundesliga,58
+9,FC Heidenheim,94937,Bundesliga,52
+10,Mainz 05,9905,Bundesliga,47
+11,Werder Bremen,8697,Bundesliga,41
+12,Wolfsburg,8721,Bundesliga,35
+13,Augsburg,8406,Bundesliga,29
+14,Borussia Mönchengladbach,9788,Bundesliga,23
+15,St. Pauli,8152,Bundesliga,17
+16,Hoffenheim,8226,Bundesliga,11
+17,Holstein Kiel,8150,Bundesliga,5
+18,Bochum,9911,Bundesliga,0
+1,Monaco,9829,Ligue 1,100
+2,Paris Saint-Germain,9847,Ligue 1,94
+3,Marseille,8592,Ligue 1,88
+4,Reims,9837,Ligue 1,82
+5,Lille,8639,Ligue 1,76
+6,Lens,8588,Ligue 1,70
+7,Strasbourg,9848,Ligue 1,64
+8,Lyon,9748,Ligue 1,58
+9,Nice,9831,Ligue 1,52
+10,Nantes,9830,Ligue 1,47
+11,Brest,8521,Ligue 1,41
+12,Rennes,9851,Ligue 1,35
+13,Saint-Etienne,9853,Ligue 1,29
+14,Auxerre,8583,Ligue 1,23
+15,Le Havre,9746,Ligue 1,17
+16,Toulouse,9941,Ligue 1,11
+17,Montpellier,10249,Ligue 1,5
+18,Angers,8121,Ligue 1,0
+1,Napoli,9875,Serie A,100
+2,Inter,8636,Serie A,94
+3,Juventus,9885,Serie A,89
+4,Lazio,8543,Serie A,84
+5,Udinese,8600,Serie A,78
+6,Milan,8564,Serie A,73
+7,Torino,9804,Serie A,68
+8,Atalanta,8524,Serie A,63
+9,Roma,8686,Serie A,57
+10,Empoli,8534,Serie A,52
+11,Fiorentina,8535,Serie A,47
+12,Hellas Verona,9876,Serie A,42
+13,Bologna,9857,Serie A,36
+14,Como,10171,Serie A,31
+15,Parma,10167,Serie A,26
+16,Cagliari,8529,Serie A,21
+17,Lecce,9888,Serie A,15
+18,Genoa,10233,Serie A,10
+19,Monza,6504,Serie A,5
+20,Venezia,7881,Serie A,0
+1,Barcelona,8634,LaLiga,100
+2,Real Madrid,8633,LaLiga,94
+3,Atletico Madrid,9906,LaLiga,89
+4,Villarreal,10205,LaLiga,84
+5,Osasuna,8371,LaLiga,78
+6,Athletic Club,8315,LaLiga,73
+7,Mallorca,8661,LaLiga,68
+8,Rayo Vallecano,8370,LaLiga,63
+9,Celta Vigo,9910,LaLiga,57
+10,Real Betis,8603,LaLiga,52
+11,Girona,7732,LaLiga,47
+12,Sevilla,8302,LaLiga,42
+13,Deportivo Alaves,9866,LaLiga,36
+14,Espanyol,8558,LaLiga,31
+15,Real Sociedad,8560,LaLiga,26
+16,Getafe,8305,LaLiga,21
+17,Leganes,7854,LaLiga,15
+18,Valencia,10267,LaLiga,10
+19,Real Valladolid,10281,LaLiga,5
+20,Las Palmas,8306,LaLiga,0
+1,PSV Eindhoven,8640,Eredivisie,100
+2,FC Utrecht,9908,Eredivisie,94
+3,AZ Alkmaar,10229,Eredivisie,88
+4,FC Twente,8611,Eredivisie,82
+5,Ajax,8593,Eredivisie,76
+6,Feyenoord,10235,Eredivisie,70
+7,Go Ahead Eagles,6433,Eredivisie,64
+8,Willem II,8525,Eredivisie,58
+9,Sparta Rotterdam,8614,Eredivisie,52
+10,Fortuna Sittard,6422,Eredivisie,47
+11,FC Groningen,8674,Eredivisie,41
+12,Heracles,9791,Eredivisie,35
+13,NAC Breda,9761,Eredivisie,29
+14,PEC Zwolle,6413,Eredivisie,23
+15,SC Heerenveen,10228,Eredivisie,17
+16,NEC Nijmegen,8464,Eredivisie,11
+17,Almere City FC,4116,Eredivisie,5
+18,RKC Waalwijk,10219,Eredivisie,0
+1,Sporting CP,9768,Liga Portugal,100
+2,FC Porto,9773,Liga Portugal,94
+3,Benfica,9772,Liga Portugal,88
+4,Santa Clara,1567,Liga Portugal,82
+5,Vitoria de Guimaraes,7844,Liga Portugal,76
+6,Braga,10264,Liga Portugal,70
+7,Famalicao,1634,Liga Portugal,64
+8,Moreirense,8348,Liga Portugal,58
+9,Gil Vicente,9764,Liga Portugal,52
+10,AVS Futebol SAD,1889,Liga Portugal,47
+11,Casa Pia AC,212821,Liga Portugal,41
+12,Rio Ave,7841,Liga Portugal,35
+13,Arouca,158085,Liga Portugal,29
+14,Boavista,8613,Liga Portugal,23
+15,Estoril,7842,Liga Portugal,17
+16,Estrela da Amadora,1074320,Liga Portugal,11
+17,Nacional,10214,Liga Portugal,5
+18,Farense,6004,Liga Portugal,0
+1,Genk,9987,First Division A,100
+2,Royal Antwerp,9988,First Division A,93
+3,Gent,9991,First Division A,86
+4,Anderlecht,8635,First Division A,80
+5,Club Brugge,8342,First Division A,73
+6,Westerlo,10001,First Division A,66
+7,FCV Dender EH,7947,First Division A,60
+8,KV Mechelen,8203,First Division A,53
+9,Sporting Charleroi,9986,First Division A,46
+10,Union St.Gilloise,7978,First Division A,40
+11,Standard Liege,9985,First Division A,33
+12,Kortrijk,8571,First Division A,26
+13,St.Truiden,9997,First Division A,20
+14,OH Leuven,1773,First Division A,13
+15,Cercle Brugge,9984,First Division A,6
+16,Beerschot,583877,First Division A,0
+1,Celtic,9925,Premiership,100
+2,Aberdeen,8485,Premiership,90
+3,Rangers,8548,Premiership,81
+4,Motherwell,9927,Premiership,72
+5,Dundee United,9938,Premiership,63
+6,St. Mirren,9800,Premiership,54
+7,Ross County,8649,Premiership,45
+8,Dundee FC,8284,Premiership,36
+9,Kilmarnock,8597,Premiership,27
+10,Hibernian,10251,Premiership,18
+11,St. Johnstone,8467,Premiership,9
+12,Hearts,9860,Premiership,0
+1,Sanfrecce Hiroshima,6224,J. League,100
+2,Vissel Kobe,4688,J. League,94
+3,Machida Zelvia,194011,J. League,89
+4,Kashima Antlers,4397,J. League,84
+5,Gamba Osaka,6582,J. League,78
+6,FC Tokyo,4399,J. League,73
+7,Cerezo Osaka,4692,J. League,68
+8,Tokyo Verdy,6223,J. League,63
+9,Nagoya Grampus,8006,J. League,57
+10,Kawasaki Frontale,6304,J. League,52
+11,Avispa Fukuoka,8270,J. League,47
+12,Yokohama F.Marinos,6581,J. League,42
+13,Urawa Red Diamonds,6244,J. League,36
+14,Albirex Niigata,4425,J. League,31
+15,Shonan Bellmare,6180,J. League,26
+16,Kashiwa Reysol,8699,J. League,21
+17,Kyoto Sanga FC,8542,J. League,15
+18,Jubilo Iwata,8065,J. League,10
+19,Hokkaido Consadole Sapporo,112688,J. League,5
+20,Sagan Tosu,162193,J. League,0
+1,Velez Sarsfield,10079,Liga Profesional,100
+2,Huracan,10081,Liga Profesional,96
+3,Talleres,10101,Liga Profesional,92
+4,Instituto,10090,Liga Profesional,88
+5,Union,10096,Liga Profesional,85
+6,Atletico Tucuman,161727,Liga Profesional,81
+7,River Plate,10076,Liga Profesional,77
+8,Racing Club,10080,Liga Profesional,74
+9,Belgrano,10092,Liga Profesional,70
+10,Boca Juniors,10077,Liga Profesional,66
+11,Deportivo Riestra,298629,Liga Profesional,62
+12,Estudiantes,10094,Liga Profesional,59
+13,Gimnasia LP,10103,Liga Profesional,55
+14,Rosario Central,10084,Liga Profesional,51
+15,Godoy Cruz,10227,Liga Profesional,48
+16,Independiente,10078,Liga Profesional,44
+17,Tigre,89396,Liga Profesional,40
+18,Club Atletico Platense,10089,Liga Profesional,37
+19,Lanus,10082,Liga Profesional,33
+20,Independiente Rivadavia,161729,Liga Profesional,29
+21,Newell's Old Boys,10201,Liga Profesional,25
+22,Central Cordoba de Santiago,213596,Liga Profesional,22
+23,Argentinos Juniors,10086,Liga Profesional,18
+24,Sarmiento,202757,Liga Profesional,14
+25,San Lorenzo,10083,Liga Profesional,11
+26,Banfield,10087,Liga Profesional,7
+27,Defensa y Justicia,161730,Liga Profesional,3
+28,Barracas Central,213534,Liga Profesional,0
+1,Botafogo RJ,8517,Serie A,100
+2,Palmeiras,10283,Serie A,94
+3,Fortaleza,8287,Serie A,89
+4,Flamengo,9770,Serie A,84
+5,Sao Paulo,10277,Serie A,78
+6,Internacional,8702,Serie A,73
+7,Bahia,7877,Serie A,68
+8,Cruzeiro,9781,Serie A,63
+9,Atletico MG,10272,Serie A,57
+10,Vasco da Gama,10276,Serie A,52
+11,Gremio,9769,Serie A,47
+12,Criciuma,7729,Serie A,42
+13,Red Bull Bragantino,109705,Serie A,36
+14,Juventude,10274,Serie A,31
+15,Athletico Paranaense,10273,Serie A,26
+16,Fluminense,9863,Serie A,21
+17,Vitoria,7733,Serie A,15
+18,Corinthians,9808,Serie A,10
+19,Cuiaba,197815,Serie A,5
+20,Atletico GO,165545,Serie A,0
+1,Sturm Graz,10014,Bundesliga,100
+2,Rapid Wien,10015,Bundesliga,90
+3,BW Linz,2433,Bundesliga,81
+4,Wolfsberger AC,1954,Bundesliga,72
+5,Salzburg,10013,Bundesliga,63
+6,Hartberg,10056,Bundesliga,54
+7,Austria Wien,10011,Bundesliga,45
+8,SK Austria Klagenfurt,10009,Bundesliga,36
+9,LASK,9977,Bundesliga,27
+10,WSG Tirol,1583,Bundesliga,18
+11,Altach,10008,Bundesliga,9
+12,Grazer AK,10012,Bundesliga,0
